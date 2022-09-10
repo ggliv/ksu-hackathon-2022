@@ -86,7 +86,7 @@
             <id>default-cli</id>
             <configuration>
               <mainClass>
-                com.ggliv.fall_2022_ksu_hackathon/com.ggliv.fall_2022_ksu_hackathon.HelloApplication
+                com.ggliv.fall_2022_ksu_hackathon/com.ggliv.hackathon.fall_2022_ksu.HelloApplication
               </mainClass>
               <launcher>app</launcher>
               <jlinkZipName>app</jlinkZipName>

@@ -1,4 +1,4 @@
-package com.ggliv.fall_2022_ksu_hackathon;
+package com.ggliv.hackathon.fall_2022_ksu;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

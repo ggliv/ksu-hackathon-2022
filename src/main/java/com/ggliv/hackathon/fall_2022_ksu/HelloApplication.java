@@ -1,4 +1,4 @@
-package com.ggliv.fall_2022_ksu_hackathon;
+package com.ggliv.hackathon.fall_2022_ksu;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
