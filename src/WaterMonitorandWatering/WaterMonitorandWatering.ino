@@ -72,7 +72,8 @@ void error() {
   Serial.println(F("Something went wrong."));
   digitalWrite(GREEN_LED_PIN, LOW);
   digitalWrite(RED_LED_PIN, HIGH);
-  tone(BUZZER_PIN, 500, 1000);  
+  tone(BUZZER_PIN, 500, 1000);
+  digitalWrite(RED_LED_PIN, LOW);
 }
 
 void openPump(int duration) {
